@@ -1,0 +1,22 @@
+tei-body {
+  display: block;
+  margin: 1em;
+}
+tei-div {
+  display: block;
+}
+tei-p {
+  display:block;
+}
+tei-tei {
+  font-family: Georgia, 'Times New Roman', Times, serif
+}
+tei-teiheader {
+  display: block;
+  border: thin solid silver;
+  padding: .5em;
+}
+tei-titlestmt>tei-title {
+  display: block;
+  font-size: 1.5em;
+}
