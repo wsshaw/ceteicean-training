@@ -19,6 +19,7 @@
       <body>
          <p>Some text here.</p>
 	<p>more text here.</p>
+	<p><add>ADdition!</add></p>
       </body>
   </text>
 </TEI>
